@@ -1,8 +1,7 @@
-Here's a well-structured README for your project:
 
 ---
 
-# Multipurpose Website Template
+# Spa and Barber website
 
 This project is a responsive, multi-purpose website template developed using **Next.js** and **Tailwind CSS**. It includes two main pages based on a design provided via Figma: a **Salon** page and a **Spy** page.
 
